@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/hamza/CLionProjects/MainProject
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: Makefile
+
+
+-- Build files have been written to: /Users/hamza/CLionProjects/MainProject/cmake-build-debug
